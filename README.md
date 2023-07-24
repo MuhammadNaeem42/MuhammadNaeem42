@@ -5,21 +5,21 @@ I am a passionate DevOps Engineer with a strong focus on building scalable and a
 
 ### 🔧 Technical Expertise 🔧
 
-Docker: Utilizing Docker to containerize applications and enable seamless deployment across different environments. 🐳 Learn more
+Docker: Utilizing Docker to containerize applications and enable seamless deployment across different environments. 🐳 
 
-Jenkins: Implementing Jenkins for continuous integration and continuous deployment (CI/CD) pipelines, automating build, test, and deployment processes. 🚀 Learn more
+Jenkins: Implementing Jenkins for continuous integration and continuous deployment (CI/CD) pipelines, automating build, test, and deployment processes. 🚀 
 
-Git: Utilizing Git version control for effective code management and collaboration. 🌿 Learn more
+Git: Utilizing Git version control for effective code management and collaboration. 🌿
 
 GitHub & GitLab: Leveraging GitHub and GitLab platforms to host repositories, manage projects, and contribute to open-source initiatives. 🐙 GitHub, GitLab
 
-AWS (Amazon Web Services): Utilizing AWS services for cloud infrastructure setup, scalability, and high availability. ☁️ Learn more
+AWS (Amazon Web Services): Utilizing AWS services for cloud infrastructure setup, scalability, and high availability. ☁️ 
 
-Kubernetes: Implementing Kubernetes for efficient container orchestration and management of microservices. ⚙️ Learn more
+Kubernetes: Implementing Kubernetes for efficient container orchestration and management of microservices. ⚙️ 
 
-Terraform: Using Terraform for infrastructure as code (IaC) to provision and manage cloud resources. 🏗️ Learn more
+Terraform: Using Terraform for infrastructure as code (IaC) to provision and manage cloud resources. 🏗️ 
 
-Ansible: Employing Ansible for configuration management and automation of IT infrastructure. 🤖 Learn more
+Ansible: Employing Ansible for configuration management and automation of IT infrastructure. 🤖 
 
 Prometheus & Grafana: Configuring monitoring solutions with Prometheus and Grafana for real-time insights into system performance. 📈 Prometheus, Grafana
 
