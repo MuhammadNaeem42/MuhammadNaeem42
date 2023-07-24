@@ -1,9 +1,12 @@
 👋 Hi there! Welcome to my GitHub Profile 👋
 
+
 About Me
+
 I am a passionate and results-driven DevOps Engineer with a strong background in managing infrastructure, automating processes, and ensuring seamless integration between development and operations teams. My goal is to streamline workflows, enhance efficiency, and deliver high-quality software products.
 
 💻 Technical Skills 💻
+
 Infrastructure as Code (IaC): Terraform, CloudFormation
 Containerization: Docker, Kubernetes
 Cloud Platforms: AWS, Azure, Google Cloud Platform
@@ -15,7 +18,9 @@ Scripting: Bash, Python, Ruby
 Database Administration: MySQL, PostgreSQL, MongoDB
 Security: Firewall Configuration, SSL Certificates, IAM Roles
 Operating Systems: Linux (Ubuntu, CentOS), Windows Server
+
 🔨 Projects 🔨
+
 🚀 Automated Deployment Pipeline: Set up a fully automated CI/CD pipeline using Jenkins and Kubernetes, ensuring continuous integration, testing, and deployment of code changes.
 
 📦 Infrastructure as Code: Implemented infrastructure provisioning using Terraform, ensuring consistent and reproducible environments across multiple cloud platforms.
