@@ -30,11 +30,17 @@ MySQL & PostgreSQL:
 Managing and administering relational databases for applications. 🗄️
 
 ### 🚀 Projects & Contributions 🚀
-Automated CI/CD Pipelines: Developed and optimized CI/CD pipelines with Jenkins, ensuring efficient code integration, testing, and deployment. 🛠️
-Dockerized Applications: Containerized applications with Docker, simplifying deployment and enhancing scalability. 🚀
-Infrastructure as Code: Leveraged AWS CloudFormation and Terraform for infrastructure provisioning and management as code. 🏗️
-Microservices Architecture: Implemented microservices architecture using Kubernetes, improving application scalability and maintainability. ⚙️
+
+Automated CI/CD Pipelines:
+Developed and optimized CI/CD pipelines with Jenkins, ensuring efficient code integration, testing, and deployment. 🛠️
+Dockerized Applications: 
+Containerized applications with Docker, simplifying deployment and enhancing scalability. 🚀
+Infrastructure as Code: 
+Leveraged AWS CloudFormation and Terraform for infrastructure provisioning and management as code. 🏗️
+Microservices Architecture: 
+Implemented microservices architecture using Kubernetes, improving application scalability and maintainability. ⚙️
 Security Automation: Developed automated security measures using Ansible, ensuring consistent security configurations across servers. 🔒
+
 ### 🌱 Continuous Learning 🌱
 In the ever-evolving DevOps landscape, I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am exploring advanced Kubernetes features, serverless computing, and further enhancing my cloud security skills. 📚
 
