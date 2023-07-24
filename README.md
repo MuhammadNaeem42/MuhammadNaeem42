@@ -4,7 +4,8 @@
 
 I am a passionate and results-driven DevOps Engineer with a strong background in managing infrastructure, automating processes, and ensuring seamless integration between development and operations teams. My goal is to streamline workflows, enhance efficiency, and deliver high-quality software products.
 
-💻 Technical Skills 💻
+### 💻 Technical Skills 💻
+
 Infrastructure as Code (IaC): Terraform, CloudFormation
 Containerization: Docker, Kubernetes
 Cloud Platforms: AWS, Azure, Google Cloud Platform
@@ -16,7 +17,9 @@ Scripting: Bash, Python, Ruby
 Database Administration: MySQL, PostgreSQL, MongoDB
 Security: Firewall Configuration, SSL Certificates, IAM Roles
 Operating Systems: Linux (Ubuntu, CentOS), Windows Server
-🔨 Projects 🔨
+
+### 🔨 Projects 🔨
+
 🚀 Automated Deployment Pipeline: Set up a fully automated CI/CD pipeline using Jenkins and Kubernetes, ensuring continuous integration, testing, and deployment of code changes.
 
 📦 Infrastructure as Code: Implemented infrastructure provisioning using Terraform, ensuring consistent and reproducible environments across multiple cloud platforms.
@@ -25,13 +28,16 @@ Operating Systems: Linux (Ubuntu, CentOS), Windows Server
 
 🌐 Microservices Orchestration: Managed containerized applications using Kubernetes, enabling scalability and fault-tolerance for microservices architecture.
 
-📚 Learning Goals 📚
+### 📚 Learning Goals 📚
+
 I am always eager to learn and stay up-to-date with the latest trends in DevOps and cloud technologies. Currently, I'm focusing on improving my skills in serverless computing and exploring serverless frameworks.
 
-📫 Let's Connect 📫
+### 📫 Let's Connect 📫
+
 If you find my work interesting or have any questions, feel free to reach out to me! I'm open to collaborations and love discussing new ideas and technologies.
 
-🌟 Thank You! 🌟
+### 🌟 Thank You! 🌟
+
 Thank you for visiting my GitHub profile. Have a great day! 😊
 
 
