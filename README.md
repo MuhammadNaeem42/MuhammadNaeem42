@@ -53,15 +53,21 @@ Automated CI/CD Pipelines:
 Developed and optimized CI/CD pipelines with Jenkins, ensuring efficient code integration, testing, and deployment.
 Dockerized Applications: Containerized applications with Docker, simplifying deployment and enhancing scalability.
 Infrastructure as Code: Leveraged AWS CloudFormation and Terraform for infrastructure provisioning and management as code.
-Microservices Architecture: Implemented microservices architecture using Kubernetes, improving application scalability and maintainability.
+
+Microservices Architecture: I
+mplemented microservices architecture using Kubernetes, improving application scalability and maintainability.
 Security Automation: Developed automated security measures using Ansible, ensuring consistent security configurations across servers.
-🌱 Continuous Learning 🌱
+
+### 🌱 Continuous Learning 🌱
+
 In the ever-evolving DevOps landscape, I am committed to continuous learning and staying updated with the latest industry trends. Currently, I am exploring advanced Kubernetes features, serverless computing, and further enhancing my cloud security skills.
 
-📫 Let's Connect 📫
+### 📫 Let's Connect 📫
+
 I am always excited to connect with fellow developers, DevOps enthusiasts, and tech professionals. If you would like to collaborate on projects, discuss ideas, or simply share knowledge, feel free to reach out to me.
 
-🌟 Thank You! 🌟
+### 🌟 Thank You! 🌟
+
 Thank you for visiting my GitHub profile. I look forward to contributing to impactful projects and empowering teams through efficient DevOps practices. Let's build a more seamless and automated future together! 😊
 
 <!--
