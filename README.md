@@ -26,18 +26,27 @@ Prometheus & Grafana: Configuring monitoring solutions with Prometheus and Grafa
 ELK Stack: Setting up the ELK stack (Elasticsearch, Logstash, and Kibana) for centralized logging and log analysis. 🌐 ELK Stack
 Python & Shell Scripting:
 Writing automation scripts in Python and Shell for various tasks. 🐍
+
 MySQL & PostgreSQL: 
+
 Managing and administering relational databases for applications. 🗄️
 
 ### 🚀 Projects & Contributions 🚀
 
 Automated CI/CD Pipelines:
+
 Developed and optimized CI/CD pipelines with Jenkins, ensuring efficient code integration, testing, and deployment. 🛠️
+
 Dockerized Applications: 
+
 Containerized applications with Docker, simplifying deployment and enhancing scalability. 🚀
+
 Infrastructure as Code: 
+
 Leveraged AWS CloudFormation and Terraform for infrastructure provisioning and management as code. 🏗️
+
 Microservices Architecture: 
+
 Implemented microservices architecture using Kubernetes, improving application scalability and maintainability. ⚙️
 Security Automation: Developed automated security measures using Ansible, ensuring consistent security configurations across servers. 🔒
 
